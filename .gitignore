@@ -1,0 +1,12 @@
+# Impostazioni locali di VS Code
+.vscode/
+
+# File nascosti di sistema 
+.DS_Store
+Thumbs.db
+desktop.ini
+.cache/
+
+# Log e file temporanei generici
+*.log
+*.tmp
