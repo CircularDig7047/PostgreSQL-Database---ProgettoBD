@@ -1,17 +1,17 @@
-# 🍕 TooGood@Uni - Database Systems Project
+# TooGood@Uni - Database Systems Project
 
 University project focusing on the design and implementation of a relational database.
 
 **TooGood@Uni** is a database for a university-oriented platform (inspired by "Too Good To Go"). It manages anti-waste food offers provided by affiliated vendors (cafeterias, bars) and allows students to book them at specific pickup points across university campuses.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **RDBMS:** PostgreSQL
 * **Languages:** SQL, PL/pgSQL
 * **Database Design:** E/R Modeling, Normalization (BCNF/3NF), Redundancy Analysis
 * **Optimization:** B-Tree & Hash Indexes, Query Execution Plan Analysis (`EXPLAIN ANALYZE`)
 
-## 🗂️ Repository Contents
+## Repository Contents
 
 This repository contains the SQL scripts required for the creation, population, and optimization of the database, divided into the following phases:
 
